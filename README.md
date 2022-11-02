@@ -1,2 +1,2 @@
 # snake-game
-this
+this is a simple
